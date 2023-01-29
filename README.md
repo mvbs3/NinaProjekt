@@ -35,3 +35,8 @@ bad_art_, lowres,{}[bad anatomy]{}, text, logo, cropped, worst quality, normal q
 ```
 
 ![Snapshot](https://user-images.githubusercontent.com/51169281/215345674-05315654-966d-4756-8290-a2d120c4df4d.png)
+
+## Entregas:
+- [Apresentação](https://tome.app/chimera-project/nina-diffusion-cldhfcj8a1pc27c41up832jhh)
+- [Galeria](https://ninadiffusion.mystrikingly.com/)
+- [Post-Mortem](https://docs.google.com/document/d/19dV3ti3k3NqiJGjNcJFTmlR_aoePRHdiOThrmTaRH-0/edit?usp=sharing)
