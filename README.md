@@ -38,5 +38,5 @@ bad_art_, lowres,{}[bad anatomy]{}, text, logo, cropped, worst quality, normal q
 
 ## Entregas:
 - [Apresentação](https://tome.app/chimera-project/nina-projekt-cldhfcj8a1pc27c41up832jhh)
-- [Galeria](https://ninadiffusion.mystrikingly.com/)
+- [Galeria](https://ninaprojekt.mystrikingly.com/)
 - [Post-Mortem](https://docs.google.com/document/d/19dV3ti3k3NqiJGjNcJFTmlR_aoePRHdiOThrmTaRH-0/edit?usp=sharing)
