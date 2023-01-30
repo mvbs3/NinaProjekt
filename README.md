@@ -26,12 +26,12 @@ O Waifu Diffusion é um modelo pré-treinado baseado no Stable Diffusion que tev
 
 #### Positive:
 ```
-masterpiece, best quality, high quality, (bear), (bee), monster, combination, mix, someOtherKeyWordsGeneratedByChatGPT...
+masterpiece, best quality, high quality, (animal1), (animal2), monster, combination, mix, [keywords baseadas na descrição do animal]...
 ```
 
 #### Negative:
 ```
-bad_art_, lowres,{}[bad anatomy]{}, text, logo, cropped, worst quality, normal quality, extra face, nsfw, abstract, ()(jpeg artifact)(), ((extra thumb)), extra face, jpeg
+bad_art, lowres, ((bad anatomy)), ((bad hands)), text, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, ((jpeg artifacts)), multiple, (multiple heads), ((extra limb)), extra face, abstract, nsfw
 ```
 
 ![Snapshot](https://user-images.githubusercontent.com/51169281/215345674-05315654-966d-4756-8290-a2d120c4df4d.png)
